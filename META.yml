@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name: Mail-Thread-Chronological
-version: 1.21
+version: 1.22
 license: perl
 distribution_type: module
 requires:
@@ -14,5 +14,5 @@ conflicts: {}
 provides:
   Mail::Thread::Chronological:
     file: lib/Mail/Thread/Chronological.pm
-    version: 1.21
+    version: 1.22
 generated_by: Module::Build version 0.18

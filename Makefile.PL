@@ -1,7 +1,7 @@
     use ExtUtils::MakeMaker;
     WriteMakefile
       ('DISTNAME' => 'Mail-Thread-Chronological',
-       'VERSION' => '1.21',
+       'VERSION' => '1.22',
        'PL_FILES' => {},
        'PREREQ_PM' => {
 			'Test::More' => '0',
